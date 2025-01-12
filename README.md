@@ -1,1 +1,1 @@
-# graph-coloring
+# Graph Coloring Benchmarks
